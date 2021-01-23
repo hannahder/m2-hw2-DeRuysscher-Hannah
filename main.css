@@ -3,8 +3,13 @@ img {
 }
 
 h1 {
-  text-align: center;
   padding: 20px 0;
   background-color: black;
   color: white;
+  margin: 0;
+}
+
+.alert {
+  border-radius: 0;
+  text-align: center;
 }

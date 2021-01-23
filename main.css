@@ -13,3 +13,8 @@ h1 {
   border-radius: 0;
   text-align: center;
 }
+
+body {
+  text-align: center;
+  margin: auto;
+}
